@@ -22,7 +22,6 @@ def calculate(list):
          ('min', min), 
          ('sum',sum)
         ])
-    
     print(calculations)
 
     return calculations
